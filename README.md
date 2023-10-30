@@ -29,3 +29,13 @@ Simple user-friendly page!
 3. Run the Streamlit app:
    streamlit run app.py
 
+4. Select a movie from the dropdown list to get details and recommendations.
+
+## Requirements
+
+- Python 3.6 or later
+- Streamlit
+- Pandas
+- Requests
+- Pickle
+
